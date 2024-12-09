@@ -1,0 +1,6 @@
+ultralytics==8.0.0  # YOLOv8 framework
+numpy               # For numerical operations
+opencv-python       # For image processing
+matplotlib          # For visualizations (optional)
+torch               # PyTorch (ensure compatibility with your system's CUDA version)
+torchvision         # PyTorch utilities for vision tasks
